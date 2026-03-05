@@ -11,6 +11,9 @@ Data structures and algorithms project focusing on graph implementations and tra
 
 ---
 
+### [Data
+
+---
 
 ### [Advanced Matric Calculations - Audio Watermarking](./AudioWatermarking.ipynb)
 An overview of fundamental matrix techniques underlying several common watermarking schemes, presentation [here](./AudioPresenation.pdf)
@@ -28,3 +31,10 @@ Designed and implemented a VGG-style convolutional neural network with residual 
 ---
 
 ### [Numerical Methods for Optimization - Interior Point Iteration for Diet Problem]
+
+One of my hardest homeworks! Feel free to run the entire file to see iteratively-tagged convergence plots
+
+**Technologies:** Python, Jax, MatplotLib
+
+---
+
