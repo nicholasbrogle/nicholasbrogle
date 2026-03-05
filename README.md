@@ -24,3 +24,7 @@ An overview of fundamental matrix techniques underlying several common watermark
 Designed and implemented a VGG-style convolutional neural network with residual skip connections for handwritten digit recognition, achieving progressive loss convergence through systematic model optimization and comparative architecture analysis.
 
 **Technologies:** PyTorch, Deep Learning, Computer Vision, Neural Networks
+
+---
+
+### [Numerical Methods for Optimization - Interior Point Iteration for Diet Problem]
