@@ -14,6 +14,6 @@ Data structures and algorithms project focusing on graph implementations and tra
 *View the full project documentation and source code in the links above.*
 
 ### [Advanced Matric Calculations - Audio Watermarking](./AudioWatermarking.ipynb)
-An overview of fundamental matrix techniques underlying several common watermarking schemes, presentation [here](./Final Project Presentation.pdf)
+An overview of fundamental matrix techniques underlying several common watermarking schemes, presentation [here](./AudioPresenation.pdf)
 
 **Technologies:** Python, Matrices, Signal Processing
