@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This repository is home to some of my favorite projects
+This repository is home to some of my favorite projects made in my time at Berkeley:
 <!--
 **nicholasbrogle/nicholasbrogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
