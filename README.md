@@ -11,7 +11,10 @@ Data structures and algorithms project focusing on graph implementations and tra
 
 ---
 
-### [Data
+### [Data 100 - Cook County Housing Inequality](./projA2.ipynb)
+A naive prediction model that provides a numerical taxation estimation through engineering feature selectors
+
+**Technologies:** JuptyerHub, ..., ...
 
 ---
 
@@ -32,7 +35,7 @@ Designed and implemented a VGG-style convolutional neural network with residual 
 
 ### [Numerical Methods for Optimization - Interior Point Iteration for Diet Problem]
 
-One of my hardest homeworks! Feel free to run the entire file to see iteratively-tagged convergence plots
+One of my hardest homeworks! Feel free to run the entire file to see iteratively-tagged convergence plots of the optimizer
 
 **Technologies:** Python, Jax, MatplotLib
 
