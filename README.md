@@ -4,7 +4,7 @@ This repository is home to some of my favorite projects made in my time at Berke
 
 ## Projects
 
-### [CS 61B Partner Project 3 - Graph Algorithms](./CS61B-Project3.md)
+### [CS 61B Partner Project 3 - Build Your Own World](./CS61B-Project3.md)
 Data structures and algorithms project focusing on graph implementations and traversal algorithms with an interactive world set-up
 
 **Technologies:** Java, Graph Data Structures, Algorithms
@@ -12,3 +12,8 @@ Data structures and algorithms project focusing on graph implementations and tra
 ---
 
 *View the full project documentation and source code in the links above.*
+
+### [Advanced Matric Calculations - Audio Watermarking](./AudioWatermarking.ipynb)
+An overview of fundamental matrix techniques underlying several common watermarking schemes
+
+**Technologies:** Python, Matrices, Signal Processing
