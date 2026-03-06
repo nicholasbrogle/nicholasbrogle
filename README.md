@@ -18,7 +18,7 @@ A naive prediction model that provides a numerical taxation estimation through f
 
 ---
 
-### [Advanced Matric Calculations - Audio Watermarking](./AudioWatermarking.ipynb)
+### [Advanced Matrix Calculations - Audio Watermarking](./AudioWatermarking.ipynb)
 An overview of fundamental matrix techniques underlying several common watermarking schemes, presentation [here](./AudioPresenation.pdf)
 
 **Technologies:** Python, Matrices, Signal Processing
