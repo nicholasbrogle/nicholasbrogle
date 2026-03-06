@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This repository is home to some of my favorite projects made in my time at Berkeley.
+This repository is home to some of my favorite projects made in my time at Berkeley. Feel free to message me on Linkedin (www.linkedin.com/in/nickbrogle) or by email (NicholasBrogle@berkeley.edu) if you have any questions :-). Stay safe out there!
 
 ## Projects
 
