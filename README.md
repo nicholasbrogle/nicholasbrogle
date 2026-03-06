@@ -14,7 +14,7 @@ Data structures and algorithms project focusing on graph implementations and tra
 ### [Data 100 - Cook County Housing Inequality](./projA2.ipynb)
 A naive prediction model that provides a numerical taxation estimation through feature engineering and co-linearity
 
-**Technologies:** JuptyerHub, ..., ...
+**Technologies:**  Pandas, NumPy, Scikit-learn
 
 ---
 
@@ -29,7 +29,7 @@ An overview of fundamental matrix techniques underlying several common watermark
 
 Designed and implemented a VGG-style convolutional neural network with residual skip connections for handwritten digit recognition, achieving progressive loss convergence through systematic model optimization and comparative architecture analysis.
 
-**Technologies:** PyTorch, Deep Learning, Computer Vision, Neural Networks
+**Technologies:** PyTorch, Deep Learning, Computer Vision
 
 ---
 
